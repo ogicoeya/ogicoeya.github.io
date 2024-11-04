@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ogicoeya.github.io/EOZ/sitemap_index.txt
+Sitemap: https://ogicoeya.github.io/bYo/sitemap_index.txt
+Sitemap: https://ogicoeya.github.io/hnb/sitemap_index.txt
+Sitemap: https://ogicoeya.github.io/rcp/sitemap_index.txt
